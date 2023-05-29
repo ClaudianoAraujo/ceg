@@ -1,1 +1,1 @@
-web: gunicorn mypr.wsgi --log-file -
+web: gunicorn mypr.wsgi
